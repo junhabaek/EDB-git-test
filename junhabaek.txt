@@ -2,5 +2,3 @@ This is test code for A method
 This is Implementation of B method
 This is another change
 This is featureC
-
-feature to revert
