@@ -1,1 +1,2 @@
 This is test code for A method
+This is Implementation of B method
